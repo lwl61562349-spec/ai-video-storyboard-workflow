@@ -1,0 +1,41 @@
+{
+  "project": "",
+  "canonical_storyboard": {
+    "path": "STORYBOARD.md",
+    "version": "v01",
+    "status": "draft",
+    "approval_evidence": ""
+  },
+  "storyboard_mode": "written",
+  "target": {
+    "duration_seconds": null,
+    "aspect_ratio": null
+  },
+  "image_generation": {
+    "authorized": false,
+    "provider": null,
+    "approved_credit_ceiling": null,
+    "actual_credits": 0
+  },
+  "shots": [
+    {
+      "shot_id": "S01",
+      "duration_seconds": null,
+      "text_status": "draft",
+      "visual_asset": {
+        "path_or_id": null,
+        "version": null,
+        "provenance": null,
+        "source_references": [],
+        "provider_job_id": null,
+        "cost_credits": null,
+        "status": "not_created",
+        "replaces": null
+      },
+      "review_notes": [],
+      "continuity_status": "pending"
+    }
+  ],
+  "unresolved_risks": [],
+  "next_gate": "storyboard_review"
+}
